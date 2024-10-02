@@ -9,9 +9,11 @@ import Paper from '@mui/material/Paper';
 
 
 const Home = () => {
-    const arr_obj =[{movieName:"Movie1",category:"Category1",director:"Director1",releaseYear:2000,language:"Malayalam"},
-        {movieName:"Movie2",category:"Category2",director:"Director2",releaseYear:2000,language:"Tamil"},
-        {movieName:"Movie3",category:"Category3",director:"Director3",releaseYear:2003,language:"Malayalam"}
+    const arr_obj =[{movieName:"Movie 1",category:"Category 1",director:"Director 1",releaseYear:2024,language:"Malayalam"},
+        {movieName:"Movie 2",category:"Category 2",director:"Director 2",releaseYear:2024,language:"Japanees"},
+        {movieName:"Movie 3",category:"Category 3",director:"Director 3",releaseYear:2023,language:"English"},
+        {movieName:"Movie 4",category:"Category 4",director:"Director 4",releaseYear:2024,language:"Hindi"},
+        {movieName:"Movie 5",category:"Category 5",director:"Director 5",releaseYear:2023,language:"Arab"}
     ]
   return (
    
